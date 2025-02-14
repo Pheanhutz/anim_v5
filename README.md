@@ -24,7 +24,11 @@ nano data.txt
 nano proxy.txt
 ```
 
-### 🔹 **Step 5: Run bot**  
+### 🔹 **Step 5: Run bot if with Proxy**  
 ```bash
 node animix-proxy
+```
+### 🔹 **Run bot without Proxy**  
+```bash
+node animix
 ```
